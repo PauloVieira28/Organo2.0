@@ -1,3 +1,5 @@
+O projeto é relacionado ao curso de 8 horas da Alura, no qual o educador desenvolve e apresenta como o ReactJS funciona. Nesse curso, o educador da Alura apresentou o Virtual DOM, que permite alterar elementos com precisão sem quebrar todo o componente e sem a necessidade de atualização completa da página. Nas funcionalidades que criamos, apenas a cor do elemento que precisa ser modificada é alterada, e apenas o elemento que precisa ser removido é excluído, por exemplo. Com esse conhecimento, não repliquei mecanicamente o que foi ensinado no curso, mas sim compreendi seu funcionamento e sou capaz de criar coisas adicionais.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
